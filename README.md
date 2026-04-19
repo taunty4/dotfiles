@@ -12,6 +12,6 @@ My Asuka themed rice
 
 Not meant for use by others, but clone and cherry-pick what you want.
 
-'''bash
+```bash
 git clone https://github.com/taunty4/dotfiles.git
-'''
+```
